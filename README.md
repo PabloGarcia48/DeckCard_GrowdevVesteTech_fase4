@@ -4,6 +4,14 @@ Aplicativo Flutter para criação de baralhos de estudo e prática de perguntas 
 
 ---
 
+## 🎬 Demonstração
+
+<p align="center">
+  <img src="assets/Screen Recording 2026-05-12 at 19.18.21.gif" alt="Demo App" width="300"/>
+</p>
+
+---
+
 ## 📱 Sobre o Projeto
 
 O Card Quiz foi desenvolvido para praticar conceitos de organização de estado, persistência local e fluxo de navegação no Flutter.
@@ -137,17 +145,6 @@ lib/
 
 ---
 
-## 🎬 Demonstração (Opcional)
-
-Se quiser exibir uma demonstração no GitHub, adicione um gif em `assets/` (por exemplo `assets/demo.gif`) e inclua no README:
-
-```html
-<p align="center">
-  <img src="assets/demo.gif" alt="Demo App" width="300"/>
-</p>
-```
-
----
 
 ## 📄 Licença
 
