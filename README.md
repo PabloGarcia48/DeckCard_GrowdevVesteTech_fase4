@@ -100,7 +100,7 @@ Durante o desenvolvimento deste projeto, foram praticados:
 
 2. Clone o repositório:
 	```bash
-	git clone <URL_DO_SEU_REPOSITORIO>
+	git clone https://github.com/PabloGarcia48/DeckCard_GrowdevVesteTech_fase4
 	```
 
 3. Acesse a pasta do projeto:
